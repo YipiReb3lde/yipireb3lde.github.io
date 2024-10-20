@@ -119,4 +119,7 @@ footer {
     .menu-toggle {
         display: flex; /* Muestra el botón del menú en móviles */
     }
+    a {
+        font-size: 25px;
+    }
 }
