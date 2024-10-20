@@ -16,15 +16,11 @@ navList.addEventListener('mouseleave', () => {
     navList.classList.remove('active');
 });
 
-/* // Abre o cierra el menú para tactil
+const mobileMenu = document.getElementById('mobile-menu');
+const navList = document.querySelector('.nav-list');
+
+// Abre o cierra el menú al hacer clic en el botón
 mobileMenu.addEventListener('click', () => {
     navList.classList.toggle('active');
 });
 
-// tactil cierra el menú al tocar fuera
-document.addEventListener('click', (event) => {
-    if (!mobileMenu.contains(event.target) && !navList.contains(event.target)) {
-        navList.classList.remove('active');
-    }
-});
-*/
