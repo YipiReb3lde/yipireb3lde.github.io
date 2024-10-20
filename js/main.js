@@ -16,7 +16,7 @@ navList.addEventListener('mouseleave', () => {
     navList.classList.remove('active');
 });
 
-// Abre o cierra el menú para tactil
+/* // Abre o cierra el menú para tactil
 mobileMenu.addEventListener('click', () => {
     navList.classList.toggle('active');
 });
@@ -27,3 +27,4 @@ document.addEventListener('click', (event) => {
         navList.classList.remove('active');
     }
 });
+*/
