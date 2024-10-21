@@ -84,7 +84,11 @@ nav {
 .letras {
     font-size: 50px;
 }
-
+.letra {
+   font-size: 25px;
+    width: 400px;
+    height: auto;
+}
 .pie {
     text-align: center;
     font-size: 25px;
