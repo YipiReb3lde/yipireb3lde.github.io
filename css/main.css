@@ -1,5 +1,4 @@
-
-* {
+  * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -29,7 +28,9 @@ nav {
     padding: 15px;
     position: relative; /* Permite posicionar el menú */
 }
-
+h1 {
+    color: darkred;
+}
 .logo {
     font-size: 30px;
     color: #ff2a6d;
@@ -85,7 +86,7 @@ nav {
     font-size: 50px;
 }
 .letra {
-   font-size: 25px;
+    font-size: 25px;
     width: 400px;
     height: auto;
 }
@@ -124,6 +125,6 @@ footer {
         display: flex; /* Muestra el botón del menú en móviles */
     }
     a {
-        font-size: 25px;
+        font-size: 22px;
     }
 }
