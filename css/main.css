@@ -6,7 +6,6 @@
 
 html, body {
     height: 100%;
-    widht: 100%;
 }
 
 body {
@@ -20,6 +19,7 @@ body {
 header {
     background-color: black;
     color: silver;
+    widht: 100%;
 }
 
 nav {
