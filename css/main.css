@@ -13,7 +13,7 @@ body {
     flex-direction: column; /* Apila los elementos en columna */
     font-family: Arial, sans-serif;
     color: #ff2a6d;
-    background-color: #181717;
+    background-color: black;
 }
 
 header {
